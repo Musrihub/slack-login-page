@@ -52,8 +52,8 @@ letter-spacing: 1.4px;
   font-size: 10px;
   text-align: center;
   background-color: white;
-  padding-top: 4px;
-  padding-bottom: 4px;
+  padding-top: 6px;
+  padding-bottom: 6px;
   border: 1px solid rgb(245, 239, 239);
   border-radius: 4px;
   margin-bottom: 16px;
@@ -73,8 +73,8 @@ letter-spacing: 1.4px;
 .input-email{
   font-size: 10px;
   color: rgb(61, 60, 60);
-  padding-bottom: 4px;
-  padding-top: 4px;
+  padding-bottom: 6px;
+  padding-top: 6px;
   border: 1px solid rgb(245, 239, 239);
   border-radius: 4px;
   margin-bottom: 16px;
@@ -83,8 +83,8 @@ letter-spacing: 1.4px;
 .input-password{
   font-size: 10px;
   color: rgb(61, 60, 60);
-  padding-top: 4px;
-  padding-bottom: 4px;
+  padding-top: 6px;
+  padding-bottom: 6px;
   border: 1px solid rgb(245, 239, 239);
   border-radius: 4px;
   margin-bottom: 16px;
@@ -122,6 +122,7 @@ span{
 }
 .create-account{
   margin-bottom: 20px;
+  font-size: 12px;
 }
 a{
   text-decoration: none;
