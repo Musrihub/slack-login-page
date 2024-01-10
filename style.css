@@ -33,7 +33,7 @@ display: flex;
    
 }
 .ideas{
-  font-size: 22px;
+  font-size: 24px;
   color:rgb(219, 13, 99);
   font-weight: 800;
   margin-bottom: 4px;
@@ -56,14 +56,14 @@ display: flex;
 }
 h1{
   
-font-size: 22px;
+font-size: 24px;
 color: rgb(66, 62, 62);
 margin-top: 16px;
-letter-spacing: 1.2px;
+letter-spacing: 1.1px;
 margin-bottom: 4px;
 }
 .business-text{
-  font-size :14px;
+  font-size: 14px;
   color: rgb(61, 60, 60);
   margin-bottom: 16px;
 }
@@ -108,10 +108,7 @@ margin-bottom: 4px;
   border: 1px solid rgb(245, 239, 239);
   border-radius: 4px;
   margin-bottom: 16px;
-  
-
 }
-
 .password{
   font-size: 14px;
   color: rgb(61, 60, 60);
