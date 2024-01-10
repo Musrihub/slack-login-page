@@ -79,6 +79,9 @@ margin-bottom: 4px;
   margin-bottom: 16px;
   cursor: pointer;
 }
+svg{
+  margin-right: 5px;
+}
 .email-sign{
   font-size: 14px;
   text-align: center;
