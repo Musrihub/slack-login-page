@@ -18,17 +18,19 @@ display: flex;
   border: 5px solid white;
   border-radius: 12px;
   margin-top: 80px;
+  width: 1100px;
 }
-@media (min-width: 600px){
+@media (min-width: 560px){
   .content{
     grid-template-columns: 1fr 1fr;
   }
 }
 .section-1 {
+    width: 600px;
     background-color:gainsboro;
     padding-top: 40px; 
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 80px;
+    padding-right: 80px;
 }
 .section-1 img{
     width: 400px;
@@ -40,7 +42,7 @@ display: flex;
 .ideas{
   font-size: 24px;
   color:rgb(219, 13, 99);
-  font-weight: 800;
+  font-weight: 700;
   margin-bottom: 4px;
 }
 .mot{
