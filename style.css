@@ -13,11 +13,16 @@ display: flex;
  justify-content: center; 
 }
 .content{
-  display: flex;
+  display: grid;
  justify-content: center; 
   border: 5px solid white;
   border-radius: 12px;
   margin-top: 80px;
+}
+@media (min-width: 600px){
+  .content{
+    grid-template-columns: 1fr 1fr;
+  }
 }
 .section-1 {
     background-color:gainsboro;
